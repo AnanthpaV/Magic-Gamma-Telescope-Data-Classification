@@ -17,3 +17,4 @@ To get started with this project, you will need to have Python 3 and the followi
 - imbalanced-learn
 
 You can install these libraries by running the following command:
+pip install -r requirements.txt
